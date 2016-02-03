@@ -1,0 +1,55 @@
+  * [↑ Home](Home.md)
+  * [Installation](Installation.md)
+    * Windows
+      * [Version 0.5](InstallationWindows.md)
+      * Version 0.5.4
+        * [English](InstallationWindows054En.md)
+        * [Italiano](InstallationWindows054It.md)
+    * Ubuntu (or Linux)
+      * [Version 0.5](InstallationLinux.md)
+        * [Ubuntu 10.10](InstallationLinux#Ubuntu_10.10.md)
+        * [Fedora](InstallationLinux#Fedora.md)
+      * Version 0.5.4
+        * [English](InstallationUbuntu054En.md)
+        * [Italiano](InstallationUbuntu054It.md)
+  * [Configuration](Configuration.md)
+    * Version 0.5.4
+      * [English](PostInstallConfiguration054En.md)
+      * [Italiano](PostInstallConfiguration054It.md)
+  * Device Configuration
+    * [Android Phones](AndroidDeviceConfiguration.md)
+    * Wiimc
+      * [English](WiimcConfigurationEn.md)
+      * [Italiano](WiimcConfigurationIt.md)
+  * How to use the Bookmarklet
+    * [English](BookmarkletsEn.md)
+    * [Italiano](BookmarkletsIt.md)
+  * [Plugins](PluginsList.md)
+    * [Plugin Installer](PluginsList#Plugin_Installer.md)
+    * [Available plugins list](PluginsList#Plugins_List.md)
+      * [Data Providers](PluginsList#Data_Providers_/_Channels.md)
+      * [Management features](PluginsList#Management_features.md)
+    * [Plugins Guide](PluginsList#Plugins_Guides.md)
+      * [WiimcPlxRenderer](PluginsList#WiimcPlxRenderer.md)
+      * [MobileRenderer](PluginsList#MobileRenderer.md)
+      * [Profiles](PluginsList#Profiles.md)
+      * [Outputs](PluginsList#Outputs.md)
+      * [Anime Db](PluginsList#Anime_Db.md)
+      * [OPFItalia](PluginsList#OPFItalia.md)
+      * [Youtube](PluginYoutube.md)
+  * [Plugins Development](PluginsAPI.md)
+    * [System Architecture](PluginsAPI#System_Architecture.md)
+      * [Plugins System](PluginsAPI#Plugins_System.md)
+        * [Priority\_System](PluginsAPI#Priority_System.md)
+        * [Standard Interfaces](PluginsAPI#Standard_Interfaces.md)
+        * [Inputs and Outputs](PluginsAPI#Inputs_and_Outputs.md)
+        * [Plugin Preferences](PluginsAPI#Plugins_Preferences.md)
+      * [Plugins Helpers](PluginsAPI#Plugins_Helpers.md)
+    * How to create a new plugin
+      * [... for version 0.5.1](HowToNewPlugin#Version_0.5.1.md)
+      * ...for version 0.5.4
+        * [English](HowToNewPlugin054En.md)
+        * [Italiano](HowToNewPlugin054It.md)
+  * FAQ/Troubleshotting
+    * [English](FaqTroubleshottingEn.md)
+    * [Italiano](FaqTroubleshottingIt.md)
